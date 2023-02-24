@@ -1,2 +1,0 @@
-# Ignite Teams
- Ignite Teams
